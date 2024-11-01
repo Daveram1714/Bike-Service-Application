@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bike-Service-Application/static/css/main.af0c275e.css",
+    "main.js": "/Bike-Service-Application/static/js/main.4162adfb.js",
+    "static/media/close-up-man-old-motorcycle.jpg": "/Bike-Service-Application/static/media/close-up-man-old-motorcycle.88936980911a53327b7c.jpg",
+    "static/media/water-wash.jpg": "/Bike-Service-Application/static/media/water-wash.671f4e0e7e1bfcca790f.jpg",
+    "static/media/BMW2.png": "/Bike-Service-Application/static/media/BMW2.adb67d441a4dc59362fd.png",
+    "static/media/BMW3.png": "/Bike-Service-Application/static/media/BMW3.5310782ceab2d67749c8.png",
+    "static/media/General-service.jpg": "/Bike-Service-Application/static/media/General-service.6968a9ffc089b135c62e.jpg",
+    "static/media/Oil-change.jpg": "/Bike-Service-Application/static/media/Oil-change.d844f4b119b1c5cbc037.jpg",
+    "static/media/Engine-work.jpg": "/Bike-Service-Application/static/media/Engine-work.55a7fddef00ec4d44cce.jpg",
+    "static/media/bike2.png": "/Bike-Service-Application/static/media/bike2.9bb281fc03fbbda2303b.png",
+    "index.html": "/Bike-Service-Application/index.html",
+    "main.af0c275e.css.map": "/Bike-Service-Application/static/css/main.af0c275e.css.map",
+    "main.4162adfb.js.map": "/Bike-Service-Application/static/js/main.4162adfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0c275e.css",
+    "static/js/main.4162adfb.js"
+  ]
+}
