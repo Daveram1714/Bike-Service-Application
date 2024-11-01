@@ -59,7 +59,7 @@ const [selectedUser,setSelectedUser]=useState([
     <Namecontext.Provider value={{userList,setUserList,selectedUser,setSelectedUser}}>
     <BrowserRouter>
     <Routes>
-      <Route element={<Home/>} path="/home"></Route>
+      <Route element={<Home/>} path="/"></Route>
       <Route element={<AdminDashboard/>} path="/admin"></Route>
        <Route element={<Container/>}></Route>
        <Route path="/" element={<Login userList={userList} setUserList={setUserList} />}></Route>
